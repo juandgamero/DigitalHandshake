@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L8tr</string>
+    <string name="button">Button</string>
+    <string name="search">Search...</string>
+    <string name="create_account">Create Account</string>
+    <string name="account_information">Account Information</string>
+    <string name="create_my_account">Create My Account</string>
+    <string name="enter_phone">Enter Phone...</string>
+    <string name="enter_email">Enter Email...</string>
+    <string name="enter_name">Enter Name...</string>
+    <string name="enter_PersonalEmail">Enter Email...</string>
+    <string name="enter_password">Enter Password...</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="logintitle">loginTitle</string>
+    <string name="loginbutton">loginButton</string>
+</resources>
